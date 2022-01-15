@@ -6,7 +6,7 @@ O objetivo de um projeto Insight, é através de um problema de negócio identif
 Por fim, uma análise exploratória deve conduzir os estudos afim de validar as hipóteses levantandas, e a proposta de solução como insight deve ser a fase conclusiva deste projeto.
 
 
-Etapas resumidas:  
+Etapas resumidas - 'roadmap':  
  
 * i. Questão do négocio - ( Fictício );
 * ii. Entedimento do negócio;
