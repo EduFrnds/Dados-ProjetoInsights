@@ -21,7 +21,9 @@ Etapas resumidas - 'roadmap':
 
 roadmap : https://www.youtube.com/watch?v=LJrK4B7bNWA&ab_channel=SejaUmDataScientist
 
-Conjunto de dados: confidencial
+Conjunto de dados: confidencial.
+
+Linguagem Utilizada: Python.
 
 Informações do atributo:
 
@@ -31,5 +33,5 @@ Listagem de atributos:
 * propriedade(ha): hectares entre 7.20 e 25899.60.
 * perfil de produtor: Grãos MANPITOBA, Grãos SUL, Grãos Cerrado, Hortifruti, Algodão e Café.
 * insumos Fertilizantes, Defensivos, Sementes.
-* valor_venda: > 0k, <= 17213726.40k
+* valor_venda: De 0k à 17213726.40k
 
