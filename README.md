@@ -1,19 +1,19 @@
-# Projeto de Insight
-Projeto traz uma abordagem muito prática e intuitiva,  aplicar conhecimento adquirido durante o curso de Data Science da escola ALURA.
+# Insight Project
+Project brings a very practical and intuitive approach, applying knowledge acquired during the Data Science course at ALURA school.
 
-O objetivo de um projeto Insight, é através de um problema de negócio identificar a causa raiz do problema, fazer a coleta de dados, inclusive o tratamento, além de levantar hipóteses sobre o comportamento do negócio em questão. 
+The objective of an Insight project is, through a business problem, to identify the root cause of the problem, collect data, including treatment, in addition to raising hypotheses about the behavior of the business in question.
 
-Por fim, uma análise exploratória deve conduzir os estudos afim de validar as hipóteses levantandas, e a proposta de solução como insight deve ser a fase conclusiva deste projeto.
+Finally, an exploratory analysis must lead the studies in order to validate the hypotheses raised, and the solution proposal as insight must be the conclusive phase of this project.
 
 
-Etapas resumidas - 'roadmap':  
+Summary steps - 'roadmap':
  
-* i. Questão do négocio - ( Fictício );
-* ii. Entedimento do negócio;
-* iii. Coleta de dados;
-* iv. Limpeza e tratamento dos dados;
-* v. Exploração de dados e visualizações;
-* vi. Comentários "insights" conclusivos.
+* i. Business question - (Fictitious);
+* ii. Business understanding;
+* iii. Data collect;
+* iv. Cleaning and processing of data;
+* v. Exploration of data and visualizations;
+* saw. Conclusive "insight" comments.
 * vii.
 * viii.
 * ix.
@@ -21,17 +21,17 @@ Etapas resumidas - 'roadmap':
 
 roadmap : https://www.youtube.com/watch?v=LJrK4B7bNWA&ab_channel=SejaUmDataScientist
 
-Conjunto de dados: confidencial.
+Dataset: confidential.
 
-Linguagem Utilizada: Python.
+Language Used: Python.
 
-Informações do atributo:
+Attribute info:
 
-Listagem de atributos:
+Attribute listing:
 
-* id_cliente : 1 a 5000.
-* propriedade(ha): hectares entre 7.20 e 25899.60.
-* perfil de produtor: Grãos MANPITOBA, Grãos SUL, Grãos Cerrado, Hortifruti, Algodão e Café.
-* insumos Fertilizantes, Defensivos, Sementes.
-* valor_venda: De 0k à 17213726.40k
+* customer_id : 1 to 5000.
+* property(ha): hectares between 7.20 and 25899.60.
+* producer profile: Grains MANPITOBA, Grains SUL, Grains Cerrado, Hortifruti, Cotton and Coffee.
+* inputs: Fertilizers, pesticides, seeds.
+* sale_value: From 0k to 17213726.40k
 
