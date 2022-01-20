@@ -13,7 +13,7 @@ Summary steps - 'roadmap':
 * iii. Data collect;
 * iv. Cleaning and processing of data;
 * v. Exploration of data and visualizations;
-* saw. Conclusive "insight" comments.
+* vi. Conclusive "insight" comments.
 * vii.
 * viii.
 * ix.
