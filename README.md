@@ -12,17 +12,17 @@ Etapas resumidas - 'roadmap':
  
 * i. Questão do négocio e Entendimento do negócio - ( Fictício );
 
-     A empresa em questão é uma fornecedora de insumos agricolas, com 5.000 clientes em sua carteira. Como Data analyst , o gerente solicitou uma análise estatística básica dos meses que tiveram maior indice de vendas no ano de 2021, com objetivo de verificar se existe algum tipo de relação entre clientes e suas propriedades(ha) com o valor da venda, além de trazer uma perspectiva dos tipos de insumos e perfil de produtor que tiveram maior impacto no faturamento. Além de passar um visão conclusiva para o time de vendas no que deve ser feito, caso precise, com o time administrativo e vendas por exemplo.
+ A empresa em questão é uma fornecedora de insumos agricolas, com 5.000 clientes em sua carteira. Como Data analyst , o gerente solicitou uma análise estatística básica dos meses que tiveram maior indice de vendas no ano de 2021, com objetivo de verificar se existe algum tipo de relação entre clientes e suas propriedades(ha) com o valor da venda, além de trazer uma perspectiva dos tipos de insumos e perfil de produtor que tiveram maior impacto no faturamento. Além de passar um visão conclusiva para o time de vendas no que deve ser feito, caso precise, com o time administrativo e vendas por exemplo.
 
 * ii. Coleta de dados e tratamento dos dados;
      
-* iii. Exploração de dados
+* iii. Exploração de dados;
 
-* iv. Visualizões (Seaborn , Matplotlib)
+* iv. Visualições; 
        
-* vi. Comentários "insights" conclusivos.
+* v. Comentários "insights" conclusivos.
 
-    Relacionar-se bem om o cliente é fundamental para qualquer organização. Sem eles, afinal, não há negócio.
+Relacionar-se bem om o cliente é fundamental para qualquer organização. Sem eles, afinal, não há negócio.
 
 É o bom relacionamento com os clientes que lança as bases para a fidelização do consumidor. Os dados retratam uma carteira extensa de clientes, onde os mais fidelizados, são outliers, que em tese eram pra ser considerados pontos ruins, mas no exemplo acima, os ditos "pontos fora da curva" são o que trazem maior rentabilidade para o negócio.
 
