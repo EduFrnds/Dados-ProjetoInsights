@@ -1,18 +1,15 @@
 # Projeto de Insight
 Projeto traz uma abordagem muito prática e intuitiva,  aplicar conhecimento adquirido durante o curso de Data Science da escola ALURA.
 
-
-
 O objetivo de um projeto Insight, é através de um problema de negócio identificar a causa raiz do problema, fazer a coleta de dados, inclusive o tratamento, além de levantar hipóteses sobre o comportamento do negócio em questão. 
 
 Por fim, uma análise exploratória deve conduzir os estudos afim de validar as hipóteses levantandas, e a proposta de solução como insight deve ser a fase conclusiva deste projeto.
-
 
 Etapas resumidas - 'roadmap':  
  
 * i. Questão do négocio e Entendimento do negócio - ( Fictício );
 
- A empresa em questão é uma fornecedora de insumos agricolas, com 5.000 clientes em sua carteira. Como Data analyst , o gerente solicitou uma análise estatística básica dos meses que tiveram maior indice de vendas no ano de 2021, com objetivo de verificar se existe algum tipo de relação entre clientes e suas propriedades(ha) com o valor da venda, além de trazer uma perspectiva dos tipos de insumos e perfil de produtor que tiveram maior impacto no faturamento. Além de passar um visão conclusiva para o time de vendas no que deve ser feito, caso precise, com o time administrativo e vendas por exemplo.
+ A empresa em questão é uma fornecedora de insumos agricolas, com 5.000 clientes em sua carteira. Como Data analyst , o gerente solicitou uma análise estatística básica dos meses que tiveram maior indice de vendas no ano de 2021, com objetivo de verificar se existe algum tipo de relação entre clientes e suas propriedades(ha) com o valor da venda, além de trazer uma perspectiva dos tipos de insumos e perfil de produtor que tiveram maior impacto no faturamento. Além de passar um visão conclusiva para, o time, do que deve ser feito, caso precise.
 
 * ii. Coleta de dados e tratamento dos dados;
      
