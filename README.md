@@ -1,4 +1,4 @@
-# Projeto de Insight
+# Projeto de Insight.
 Projeto traz uma abordagem muito prática e intuitiva,  aplicar conhecimento adquirido durante o curso de Data Science da escola ALURA.
 
 O objetivo de um projeto Insight, é através de um problema de negócio identificar a causa raiz do problema, fazer a coleta de dados, inclusive o tratamento, além de levantar hipóteses sobre o comportamento do negócio em questão. 
